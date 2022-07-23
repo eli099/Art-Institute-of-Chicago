@@ -29,7 +29,7 @@ const ArtIndex = () => {
   // Dropdown filter origin
   const [origins, setOrigins] = useState([])
 
-  // Dropdon filter depratments
+  // Dropdon filter departments
   const [departments, setDepartments] = useState([])
 
   const [filteredArt, setFilteredArt] = useState([])
